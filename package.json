@@ -1,8 +1,9 @@
 {
-	"name":"heroku_addon_node",
-	"version": "0.0.1",
-	"private": true,
-	"dependencies": {
-		"express": "~4.0.0"
-	}
+  "name": "heroku_addon_node",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~4.0.0",
+    "newrelic": "^1.18.0"
+  }
 }
