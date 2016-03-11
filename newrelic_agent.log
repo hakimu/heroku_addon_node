@@ -1,0 +1,7 @@
+{"v":0,"level":10,"name":"newrelic","hostname":"hakimu-mbp","pid":45465,"time":"2016-03-11T19:47:26.841Z","msg":"Using New Relic for Node.js version 1.18.0."}
+{"v":0,"level":20,"name":"newrelic","hostname":"hakimu-mbp","pid":45465,"time":"2016-03-11T19:47:26.844Z","msg":"Process was running 0.152 seconds before agent was loaded."}
+{"v":0,"level":20,"name":"newrelic","hostname":"hakimu-mbp","pid":45465,"time":"2016-03-11T19:47:26.849Z","msg":"Current working directory at module load is /Users/hakimu/Documents/scribble/heroku_addon_node."}
+{"v":0,"level":20,"name":"newrelic","hostname":"hakimu-mbp","pid":45465,"time":"2016-03-11T19:47:26.849Z","msg":"Process title is node."}
+{"v":0,"level":20,"name":"newrelic","hostname":"hakimu-mbp","pid":45465,"time":"2016-03-11T19:47:26.849Z","msg":"Application was invoked as /usr/local/Cellar/node/5.1.0/bin/node /Users/hakimu/Documents/scribble/heroku_addon_node/app.js."}
+{"v":0,"level":20,"name":"newrelic","hostname":"hakimu-mbp","pid":45465,"time":"2016-03-11T19:47:26.851Z","msg":"Using configuration file /Users/hakimu/Documents/scribble/heroku_addon_node/newrelic.js."}
+{"v":0,"level":30,"name":"newrelic","hostname":"hakimu-mbp","pid":45465,"time":"2016-03-11T19:47:26.851Z","msg":"Module not enabled in configuration; not starting."}
